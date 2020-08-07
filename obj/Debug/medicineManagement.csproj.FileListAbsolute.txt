@@ -1,0 +1,17 @@
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.csprojAssemblyReference.cache
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.Admin.resources
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.Seller.resources
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.Patient.resources
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.doctor.resources
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.Registration.resources
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.History.resources
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.Properties.Resources.resources
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.csproj.GenerateResource.cache
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.csproj.CoreCompileInputs.cache
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\bin\Debug\medicineManagement.exe.config
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\bin\Debug\medicineManagement.exe
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\bin\Debug\medicineManagement.pdb
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.Form1.resources
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.exe
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.pdb
+C:\Users\saifu\source\repos\medicineManagement\medicineManagement\obj\Debug\medicineManagement.Form7.resources
